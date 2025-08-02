@@ -1,0 +1,4 @@
+name: PassBombGame
+version: '1.0-SNAPSHOT'
+main: org.comma6760.BombTagPlugin.BombTagPlugin
+api-version: '1.21'
